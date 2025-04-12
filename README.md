@@ -15,7 +15,7 @@ Sends messages typed by the user.
 
 Displays echoed responses from the server.
 
-Replaces special response 203 = 0xcb with a predefined message.
+Replaces special response 203 = 0xcb with a predefined message: "Received special code!"
 
 All WebSocket connection logic is encapsulated within the library.
 
