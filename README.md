@@ -15,12 +15,22 @@ Sends messages typed by the user.
 
 Displays echoed responses from the server.
 
+
+
+
 Replaces special response 203 = 0xcb with a predefined message: "Received special code!"
 
 All WebSocket connection logic is encapsulated within the library.
 
 Connection is closed when the activity is destroyed.
 
+
+![image](https://github.com/user-attachments/assets/91330688-0238-469a-8577-483feccb5e25)
+![image](https://github.com/user-attachments/assets/19cac54e-3228-4549-b2de-6ba229c00409)
+![image](https://github.com/user-attachments/assets/0ccf6e0c-93d6-4119-96e0-f9f973475ae9)
+
+
+https://github.com/user-attachments/assets/0fdeb61f-103a-48fb-8281-5e26bd72bde2
 
 
 To use the library:
