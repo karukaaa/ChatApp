@@ -49,6 +49,6 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
 
-    implementation("com.github:chat-library:1.1.2")
+    implementation("com.github:chat-library:1.1.4")
 
 }
